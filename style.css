@@ -72,36 +72,42 @@ input {
   background: rgb(149, 199, 174);
   color: rgb(86, 94, 101);
   padding: 7px 30px;
+  text-align: center;
 }
 
 .tile2 {
   background-color: rgb(199, 174, 149);
   color: rgb(86, 94, 101);
   padding: 7px 30px;
+  text-align: center;
 }
 
 .tile3 {
   background-color: rgb(199, 149, 174);
   color: rgb(86, 94, 101);
   padding: 7px 30px;
+  text-align: center;
 }
 
 .tile4 {
   background-color: rgb(149, 174, 199);
   color: rgb(86, 94, 101);
   padding: 7px 30px;
+  text-align: center;
 }
 
 .tile5 {
   background-color: rgb(174, 199, 149);
   color: rgb(86, 94, 101);
   padding: 7px 30px;
+  text-align: center;
 }
 
 .tile6 {
   background-color: rgb(174, 149, 199);
   color: rgb(86, 94, 101);
   padding: 7px 30px;
+  text-align: center;
 }
 
 a:hover {
